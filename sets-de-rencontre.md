@@ -7,5 +7,5 @@
 ### 7. Le Festoyeur du Lointain
 
 - au-dessous => sous
-
-![Festoyeur](images/sets-de-rencontre/Sh-7.png)
+![Festoyeur](images/sets-de-rencontre/7-SE.png)
+![Festoyeur](images/sets-de-rencontre/7-SH.png)
