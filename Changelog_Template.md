@@ -21,7 +21,7 @@
 
 - Transférez les fatalités → Déplacez toutes les fatalités
 - Ne retirez pas les fatalités en jeu quand cette intrigue avance. → Ne retirez pas les fatalités en jeu
-- Ne retirez pas les fatalités en jeu quand cette intrigue avance. Transférez les fatalités => Ne retirez pas les fatalités en jeu. Déplacez toutes les fatalités
+
 
 ---
 
@@ -101,17 +101,25 @@
 - Analyse => Analyser
 - Si c'est un lieu, mettez-le en jeu au-dessus du Simulateur de Réalité. => Si c'est un lieu, placez-le sur le Simulateur de Réalité ; il le remplace.
 
+### 187. Assaut Extraterrestre
+
+- défaussez la carte du dessus du deck => défaussez une carte du dessus du deck (Version renouveau du cercle brisé)
+
 ---
 
 ## S4 – The Machine in Yellow
 
-*(à compléter)*
+### 192. Ça Revient
 
+- Cherchez Le Croque-Mitaine dans la collection (Matière Noire)  => Cherchez Le Croque-Mitaine (Somme de Toutes les Peurs) dans la collection
+- Cherchez l'Émissaire Royal (Messager d'Aldébaran) dans la collection (<i>La Route de Carcosa</i>) => Cherchez l'Émissaire Royal (Messager d'Aldébaran) dans la collection 
 ---
 
 ## S5 – Fragment of Carcosa
 
-*(à compléter)*
+ ### 199 Reflets Obscurs (Manipulateur)
+ 
+- Un investigateur pour perdre 2 actions et piochez la carte => Un investigateur qui perd 2 actions et pioche la carte
 
 ---
 
