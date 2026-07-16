@@ -10,4 +10,4 @@
 - [S4 – The Machine in Yellow](s4-machine-in-yellow.md)
 - [S5 – Fragment of Carcosa](s5-fragment-of-carcosa.md)
 - [S6 – Starfall](s6-starfall.md)
-- [sets de rencontre](sets de rencontre.md)
+- [sets de rencontre](sets-de-rencontre.md)
