@@ -9,11 +9,11 @@
 
 ---
 
-## S1 – The Tatterdemalion
+## S1 - The Tatterdemalion
 
-### 18. Systèmes Opérationnels
+18. Systèmes Opérationnels
 
-**Clarification de règle**
+*Clarification de règle*
 
 - Transférez les fatalités → Déplacez toutes les fatalités 
 - Ne retirez pas les fatalités en jeu quand cette intrigue avance. →  Ne retirez pas les fatalités en jeu
@@ -21,11 +21,11 @@
 
 - Ne retirez pas les fatalités en jeu quand cette intrigue avance. Transférez les fatalités => Ne retirez pas les fatalités en jeu. Déplacez toutes les fatalités
 
-#### S2 - Electric Nightmare
+## S2 - Electric Nightmare
 
-#### S3a - Lost Quantum
+## S3a - Lost Quantum
 
-#### S3b - In the Shadow of Earth
+## S3b - In the Shadow of Earth
 
 113 Le Nostalgie II
 - Analyse => : Analyser 
@@ -60,7 +60,7 @@
 # 148 Métamorphe
 - du dessus de votre => du sommet de votre
 
-#### S3c - Strange Moons
+## S3c - Strange Moons
 
 # 165 Système de Communication
 - Analyse => <Analyser
@@ -73,8 +73,8 @@
 - Analyse => <Analyser
 - Si c'est un lieu, mettez-le en jeu au-dessus du Simulateur de Réalité. => Si c'est un lieu, placez-le sur le Simulateur de Réalité ; il le remplace.
 
-#### S4 - The Machine in Yellow
+## S4 - The Machine in Yellow
 
-#### S5 - Fragment of Carcosa
+## S5 - Fragment of Carcosa
 
-#### S6 - Starfall
+## S6 - Starfall
