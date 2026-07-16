@@ -27,13 +27,16 @@
 
 ## S2 – Electric Nightmare
 
-*(à compléter)*
+### . Juste un Mauvais Rêve
+- Correction du mot pousser
+
 
 ---
 
 ## S3a – Lost Quantum
 
-*(à compléter)*
+### . Manigances Quantiques
+- Ajout de si => mais seulement si vous arrivez
 
 ---
 
@@ -50,6 +53,7 @@
 ### 114. La Corruption
 
 - Remplacement de La Faim par La corruption
+- Correction d'accidentellement
 
 ### 115. Les Cris des Morts
 
@@ -87,6 +91,9 @@
 
 ## S3c – Strange Moons
 
+### . Lunes de Saturne
+- deck Rencontre lors de la phase => deck Rencontre durant la phase
+
 ### 165. Système de Communication
 
 - Analyse => Analyser
@@ -113,16 +120,33 @@
 
 - Cherchez Le Croque-Mitaine dans la collection (Matière Noire)  => Cherchez Le Croque-Mitaine (Somme de Toutes les Peurs) dans la collection
 - Cherchez l'Émissaire Royal (Messager d'Aldébaran) dans la collection (<i>La Route de Carcosa</i>) => Cherchez l'Émissaire Royal (Messager d'Aldébaran) dans la collection 
+
+ ### 199. Reflets Obscurs (Manipulateur)
+ 
+- Un investigateur pour perdre 2 actions et piochez la carte => Un investigateur qui perd 2 actions et pioche la carte
 ---
 
 ## S5 – Fragment of Carcosa
 
- ### 199 Reflets Obscurs (Manipulateur)
- 
-- Un investigateur pour perdre 2 actions et piochez la carte => Un investigateur qui perd 2 actions et pioche la carte
+### . Le Début de la Fin
+Remplacement de la seconde phrase d'histoire.
 
+### 215. Bouteille des Secrets Enfermés
+- Suppresion du point dans le sous-titre
+
+### 216. Navette Abandonnée
+- Clarification => La Navette Abandonnée ne peut pas être retournée.
+
+### . Surface du Fragment
+retournée => retourné
 ---
 
 ## S6 – Starfall
 
 *(à compléter)*
+
+
+## Espace Profond
+
+### 7. Le Festoyeur du Lointain
+- au-dessous => sous
