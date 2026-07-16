@@ -1,8 +1,13 @@
-### Changelog
 
-### S1 - The tatterdemalion
+ Changelog
 
-18 Systèmes Opérationnels
+## S1 – The Tatterdemalion
+
+### 18 Systèmes Opérationnels
+**Clarification de règle**
+- 
+- « Transférez les fatalités » → « Déplacez toutes les fatalités ».
+
 - Ne retirez pas les fatalités en jeu quand cette intrigue avance. Transférez les fatalités => Ne retirez pas les fatalités en jeu. Déplacez toutes les fatalités
 
 #### S2 - Electric Nightmare
