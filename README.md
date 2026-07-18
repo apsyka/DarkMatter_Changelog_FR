@@ -13,74 +13,86 @@
 - [sets de rencontre](sets-de-rencontre.md)
 - [Extension Science](extension-science.md)
 
- Terminologie (« Analyse » → « Analyser » / harmonisation de l'action)
+## Classification des corrections
 
-16. Le Vaisseau Fantôme — Analyse => Analyser
-17. Le Soulèvement des Machines — Analyse => Analyser
-26. Infirmerie — Analyse => Analyser
-28. Passerelle de Commandement — avoir effectué une Analyse => avoir effectué une action Analyser
-30. Combinaison EVA — effectuez une Analyse => effectuez une action Analyser
-34. JV-7 « Hyades » — effectuez une Analyse => effectuez une action Analyser
-36. LR-02 « Hali » — Analyse => Analyser
-38. Interface Neuronale — Analyse => Analyser
+### 🔤 Terminologie : « Analyse » / « Recherche » → termes standardisés
 
-65. K2-PS187 (x4 occurrences) — pour activer la capacité Analyse => que pour Analyser
-65. K2-PS187 — une action Analyse manquée => une action Analyser infructueuse
+**Analyse => Analyser**
+- Sets de Rencontre — 49. L'Œil qui Voit Tout
+- S1 — 16. Le Vaisseau Fantôme, 17. Le Soulèvement des Machines, 26. Infirmerie, 28. Passerelle de Commandement, 30. Combinaison EVA, 34. JV-7 « Hyades », 36. LR-02 « Hali », 38. Interface Neuronale
+- S2 — 65. K2-PS187 (x4, incl. « Analayse » mal orthographié), une action Analyse manquée => Analyser infructueuse
+- S3a — 90. Le Maelström Quantique (v.1/2/3)
+- S3b — 113. Le Nostalgie II, 114. La Chose de la Terre, 115. Les Cris des Morts, 119. C'est Dégoûtant et Agressif, 135. Sophie
+- S3c — 165. Système de Communication, 166. Analyseurs de Rêve, 168. Scanner Mémoriel
+- S6 — 248. Fin des Temps, 249. Le Réveil de Tassilda, 281. Archives Universelles
+- Extension Science — 03. Détecteur de Germanium, 04. Capteur de Particules Subatomiques *(+ précision « pas en gras »)*
 
-90. Le Maelström Quantique (v.1) — Analyse => Analyser
-90. Le Maelström Quantique (v.2) — Analyse => Analyser
-90. Le Maelström Quantique (v.3) — Analyse => Analyser
-96. Étendues Gelées — analyser les => analyser dans les
+**Recherche => Étudiée**
+- Extension Science — Kate Winthrop, Stabilisateur de Flux, Théorie de Grande Unification, La Science Avant Tout, Détecteur de Germanium, Capteur de Particules Subatomiques, Algorithme d'IA, Réserve d'Énergie Nucléaire, Collaboration Internationale, Esprit Rationnel, Accélérateur de Particules, Relativité Restreinte *(quasi toute l'extension)*
 
-113. Le Nostalgie II — Analyse => Analyser
-114. La Chose de la Terre — Analyse => Analyser
-115. Les Cris des Morts — Analyse => Analyser
-119. C'est Dégoûtant et Agressif — Analyse => Analyser
-135. Sophie — Analyse => Analyser
+---
 
-165. Système de Communication — Analyse => Analyser
-166. Analyseurs de Rêve — Analyse => Analyser
-168. Scanner Mémoriel — Analyse => Analyser
+### 🧭 Formulation de l'action « analyser » (prépositions : le/les/sur → dans/au)
+- S3a — 96. Étendues Gelées (analyser les => analyser dans les)
+- S6 — 260. Mont Sinaï (le => au), 261. Le Vaisseau Abandonné (le => dans), 262. Ruines Martiennes (sur ce lieu => dans ce lieu ; les => dans les), 264. Laboratoire Lunaire (le => dans le), 265. Seuil de Yuggoth (le => au)
+- S6 — 278. Unité d'Enquête KN-1 : reformulation complète du coût de la capacité Analyser
 
-✍️ Typographie / orthographe
+---
 
-15. Surcharge du Réacteur — A l'instant => À l'instant (accent manquant)
+### ✍️ Typographie / orthographe
+- S1 — 15. Surcharge du Réacteur (A l'instant => À l'instant)
+- S3a — 97. Montagnes de Cristal (Extradimensionel => Extradimensionnel)
+- S3b — 118. Dernier Adieu (des grilles => les grilles), 128. Salle de Contrôle (« : » manquant)
+- S5 — 215. Bouteille des Secrets Enfermés (suppression d'un point superflu)
+- Extension Science — Marcheur de la Faille (Extra-Dimensionnel => Extradimensionnel)
 
-60. Juste un Mauvais Rêve — correction du mot « pousser »
+---
 
-97. Montagnes de Cristal — Extradimensionel => Extradimensionnel (faute d'orthographe)
+### 🔢 Nombres / notation
+- S5 — 224. L'Arrivée du Roi (24 => 2 investigateurs — erreur de frappe importante), 237. Changement de Scène (d'1 => de 1), 240. Rideaux en Lambeaux (un lieu => 1 lieu)
+- Sets de Rencontre — 86. Approche-toi (d'un lieu => de 1 lieu)
 
-118. Dernier Adieu — « à travers des grilles du sol » => « à travers les grilles du sol »
-128. Salle de Contrôle — ajout du « : » manquant entre <act> et Discussion
+---
 
-📜 Clarification de règle
+### 🎨 Formatage (gras, ponctuation)
+- Extension Science — Kate Winthrop (« ne doit pas être en gras »), Détecteur de Germanium / Capteur de Particules Subatomiques (Analyser pas en gras)
 
-18. Systèmes Opérationnels — Transférez les fatalités → Déplacez toutes les fatalités ; précision sur le fait de ne pas retirer les fatalités en jeu
+---
 
-72. Gymnase — « cet ennemi ne vous engage pas et ne vous attaque pas » => « cet ennemi ne peut ni vous attaquer ni vous engager »
+### 📜 Clarification de règle (effet ambigu précisé, sans changer le sens de base)
+- Sets de Rencontre — 7. Le Festoyeur du Lointain (au-dessous => sous)
+- S1 — 18. Systèmes Opérationnels (fatalités : transférez => déplacez ; précision sur le retrait)
+- S2 — 72. Gymnase (ne vous engage pas / n'attaque pas => ne peut ni attaquer ni engager)
+- S3a — 91. Manigances Quantiques (ajout « mais seulement si vous arrivez »), 98. Flèches de Glace (précision du lieu visé)
+- S3b — 131. Capitaine Burr (dégâts/horreurs directs), 133. Lt Archer Michaels (« en jeu » au lieu de « dans votre lieu »), 148. Métamorphe (dessus => sommet)
+- S3c — Lunes de Saturne (lors de => durant la phase), 166/168. Analyseurs de Rêve / Scanner Mémoriel (remplace le lieu au lieu de s'empiler), 174. Cité des Chats (virgule => « et »)
+- S5 — 216. Navette Abandonnée / 217. Surface du Fragment (précision : ne peut pas être retournée), 231. Choisi par Lui (ajout : défaussez ensuite la carte)
+- Extension Science — Collaboration Internationale (à la place => à votre place)
 
-91. Manigances Quantiques — ajout de « mais seulement si vous arrivez »
-98. Flèches de Glace — « dans ce lieu » => « dans les Flèches de Glace » (précision du lieu visé)
-105. Chien de Tindalos — Génération plutôt que Forcé (changement du type de capacité)
+---
 
-131. Capitaine Burr — « les dégâts et les horreurs infligés » => « les dégâts directs et les horreurs directes infligés »
-133. Lieutenant « Archer » Michaels — « Infligez 2 dégâts à un ennemi dans votre lieu » => « Infligez 2 dégâts à un ennemi en jeu »
-148. Métamorphe — « du dessus de votre » => « du sommet de votre »
+### 🔧 Correction de contenu (référence de carte, remplacement, stat erronée)
+- S3a — 105. Chien de Tindalos (Génération plutôt que Forcé — type de capacité)
+- S3b — 114. La Corruption (remplacement de « La Faim » par « La Corruption », erreur d'insertion)
+- S4 — 192. Ça Revient (référence de collection corrigée pour Le Croque-Mitaine ; suppression de la mention *La Route de Carcosa*)
+- S5 — Le Début de la Fin (remplacement de la 2e phrase d'histoire), 219. Grand Salon (correction de nom => L'Arrivée du Roi)
+- S6 — Éclipse Solaire (reprise du texte d'une carte équivalente d'une autre extension)
+- Extension Science — Laika (vies => santé mentale, correction de la ressource affectée)
 
-166. Analyseurs de Rêve — « mettez-le en jeu au-dessus du Simulateur de Réalité » => « placez-le sur le Simulateur de Réalité ; il le remplace »
-168. Scanner Mémoriel — même clarification que ci-dessus
-174. Cité des Chats — « Soutien, Événement, Compétence » => « Soutien, Événement et Compétence » (précision de type)
+---
 
-Lunes de Saturne — « deck Rencontre lors de la phase » => « deck Rencontre durant la phase »
-187. Assaut Extraterrestre — « défaussez la carte du dessus du deck » => « défaussez une carte du dessus du deck » (version renouveau du cercle brisé)
+### 🗑️ Suppression de texte
+- S1 — 37. Med-kit (suppression de « dans le même lieu »)
 
-❌ Suppression de texte
+---
 
-37. Med-kit — suppression de la mention « dans le même lieu »
+### ✏️ Reformulation grammaticale / clarté de phrase
+- S4 — 199. Reflets Obscurs (Manipulateur) : construction de phrase corrigée
+- S3b — 133 (voir clarification ci-dessus, aussi reformulation)
+- S3c — 187. Assaut Extraterrestre (la carte => une carte — version renouveau du cercle brisé)
 
+---
 
-
-✍️ Correction de texte (non détaillée)
-
-57/58/59. Esprit Embrouillés — correction du texte, différence entre les 3 cartes (nature exacte non précisée dans ta note)
-114. La Corruption — remplacement de « La Faim » par « La Corruption » (correction d'une erreur d'insertion accidentelle)
+### ❓ Corrections non détaillées (à préciser si besoin)
+- S2 — 57/58/59. Esprit Embrouillés (« différence entre les 3 cartes », nature exacte non précisée)
+- S2 — 60. Juste un Mauvais Rêve (correction du mot « pousser », avant/après non précisé)
