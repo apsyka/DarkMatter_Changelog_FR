@@ -19,3 +19,15 @@
 ### Surface du Fragment
 
 - retournée => retourné
+
+### L'arrivée du Roi
+
+- Correction 24 => 2 investigateurs
+
+### Rideaux en Lambeaux
+
+- un lieu => 1 lieu
+
+### Escalier en Colimaçon
+
+- se retourne = est retourné

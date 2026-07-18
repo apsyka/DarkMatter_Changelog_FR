@@ -11,3 +11,4 @@
 - [S5 – Fragment of Carcosa](s5-fragment-of-carcosa.md)
 - [S6 – Starfall](s6-starfall.md)
 - [sets de rencontre](sets-de-rencontre.md)
+- [Extension Science](extension-science.md)

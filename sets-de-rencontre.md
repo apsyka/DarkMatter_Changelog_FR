@@ -8,6 +8,10 @@
 
 - au-dessous => sous
 
-| Avant | Après |
-|---|---|
-| ![Avant](images/sets-de-rencontre/7-SE.png) | ![Après](images/sets-de-rencontre/7-SH.png) |
+### 49 L'Oeil qui Voit Tout
+
+- effectuer une action Analyse => effectuer une action Analyser
+
+### 86 Approche-toi
+
+- déplacez-vous d'un lieu => déplacez-vous de 1 lieu 
