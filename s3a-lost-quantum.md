@@ -20,3 +20,20 @@
 ### 91. Manigances Quantiques
 *ajout*
 -  si => mais seulement si vous arrivez
+
+
+### 96. Étendues Gelées
+
+-  analyser les => analyser dans les 
+
+### 97. Montagnes de Cristal
+
+- Extradimensionel => Extradimensionnel
+
+### 98. Flèches de Glace
+
+- dans ce lieu => dans les Flèches de Glace
+
+### 105. Chien de Tindalos
+
+- Génération plutôt que Forcé

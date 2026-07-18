@@ -7,6 +7,7 @@
 ### 7. Le Festoyeur du Lointain
 
 - au-dessous => sous
+!(images\sets-de-rencontre\384a - The Feaster from Afar (Front).png)
 
 ### 49 L'Oeil qui Voit Tout
 

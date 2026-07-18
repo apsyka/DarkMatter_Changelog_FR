@@ -16,18 +16,32 @@
 
 - Clarification => La Navette Abandonnée ne peut pas être retournée.
 
-### Surface du Fragment
+### 217. Surface du Fragment
 
-- retournée => retourné
+- Clarification => La Surface du Fragment ne peut pas être retournée.
 
-### L'arrivée du Roi
+### 218. Escalier en Colimaçon
 
-- Correction 24 => 2 investigateurs
+- se retourne = est retourné
 
-### Rideaux en Lambeaux
+### 219. Grand Salon
+
+- Correction du nom => L'Arrivée du Roi
+
+### 224. L'arrivée du Roi
+
+- Correction : 24 => 2 investigateurs
+
+### 231. Choisi par Lui
+
+- Ajout : Ensuite, défaussez Choisi par Lui.
+
+### 237. Changement de Scène
+
+- d'1 lieu => de 1 lieu
+
+### 240 Rideaux en Lambeaux
 
 - un lieu => 1 lieu
 
-### Escalier en Colimaçon
 
-- se retourne = est retourné
